@@ -4,7 +4,7 @@ This project was completed for the course "Graphical Tools for Interface Design"
 
 ## SVG animation (GSAP)
 
-![GSAP svg animation](./assets/images/gsap-svg-animation.gif)
+![GSAP svg animation](Assets/images/gsap-svg-animation.gif)
 
 ### Description
 
@@ -31,4 +31,4 @@ The image was converted to webp and avif using ImageMagick command-line tool.
 
 The idea is to use it as a good looking placeholder image for a nature & landscape photography website.
 
-![Placeholder image](./assets/images/placeholder.avif)
+![Placeholder image](Assets/images/placeholder.avif)
