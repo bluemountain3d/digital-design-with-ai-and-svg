@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/rLdDeiQm)
-
 # Individual Assignment: Digital Design with AI and SVG
 
 This project was completed for the course "Graphical Tools for Interface Design" where I explored the applications of AI-generated imagery and interactive SVG elements. The assignment focused on understanding file formats and solving problems related to front-end development.
